@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+PyPDF2
+reportlab
+pdf2docx
+docx2pdf
+ocrmypdf
+pillow
+pdf2image
+pdfkit
