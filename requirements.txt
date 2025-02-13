@@ -8,3 +8,4 @@ ocrmypdf
 pillow
 pdf2image
 pdfkit
+python-multipart
